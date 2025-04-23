@@ -1,1 +1,1 @@
-# qt_runtime
+# qt_sdk
